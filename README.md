@@ -1,4 +1,4 @@
-# tuic-installer 🚀
+# TUIC V5 Installer 🚀
 
 Automate the installation and management of the tuic-server on your Linux system with tuic-installer. With automatic architecture detection, fetching the latest releases, and an intuitive management interface, deploying tuic-server has never been easier.
 
@@ -14,7 +14,7 @@ Automate the installation and management of the tuic-server on your Linux system
 
 To install tuic-server using the tuic-installer, run the following command:
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/deathline94/tuic-v5-installer/main/tuic-installer.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/imthesabrali/tuic-v5-installer/main/tuic-installer.sh)
 ```
 💬 Usage:
 
