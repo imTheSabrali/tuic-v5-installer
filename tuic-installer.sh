@@ -14,7 +14,7 @@ print_with_delay() {
 # Introduction animation
 echo ""
 echo ""
-print_with_delay "tuic-installer by ImTheSabrali
+print_with_delay "tuic-installer by ImTheSabrali" 0.1
 echo ""
 echo ""
 
